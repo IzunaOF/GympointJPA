@@ -9,7 +9,6 @@ import javax.persistence.Persistence;
 
 public class JpaManager {
 
-   
     public static EntityManagerFactory createEntityManagerFactory() {
         Map<String, String> properties = new HashMap<>();
 
@@ -21,7 +20,6 @@ public class JpaManager {
 
         return Persistence.createEntityManagerFactory("gympoint", properties);
     }
-
 
     public static EntityManager getEntityManager() {
         return createEntityManagerFactory().createEntityManager();

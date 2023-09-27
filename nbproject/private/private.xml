@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Utils/JpaManager.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Enums/Funcao.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Repositories/Hibernate/HibernateUsuarioRepository.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Repositories/UsuarioRepository.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Main/Main.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Repositories/InMemory/InMemoryUsuarioRepository.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/src/Entities/Usuario.java</file>
+            <file>file:/C:/Users/leonardo_santos29/Desktop/Gympoint_server/gympoint-desktop/.env</file>
+        </group>
+    </open-files>
+</project-private>

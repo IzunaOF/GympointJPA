@@ -5,7 +5,7 @@
              version="2.1">
     <persistence-unit name="gympoint" transaction-type="RESOURCE_LOCAL">
         <!-- Define as classes de entidade que você deseja gerenciar -->
-        <class>Entities.User</class>
+        <class>Entities.Usuario</class>
 
         <!-- Propriedades de configuração do banco de dados -->
         <properties>
